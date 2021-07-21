@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+}
+body{
+    font size: 21px;
+}
+
+nav{
+    background-color:blue;
+    line-height:3em;
+}
+nav a {
+    color:azure; 
+}
+header{
+    background-color: blue;
+}
+/* a {
+    text decoration: none;
+    color: white;
+} */
+a{
+     text-decoration: none ;
+}
+footer{
+    background-color: blue;
+}
+footer ul {
+     list-style-type: none;
+      display: flex;
+      justify-content: center;
+}
+footer ul li{
+    margin: 0.9em;
+}
+footer a{
+    color:ghostwhite;
+}footer p{
+    color:ivory;
+    text-align: center ;
+}
